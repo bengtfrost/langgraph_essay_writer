@@ -30,7 +30,7 @@ planning to final draft.
 
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/essay-writer.git
+git clone https://github.com/bengtfrost/langgraph_essay_writer.git
 cd essay-writer
 
 ### 2. Install Dependencies
