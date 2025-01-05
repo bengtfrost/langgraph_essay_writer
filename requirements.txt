@@ -1,0 +1,8 @@
+requests
+python-dotenv
+langgraph
+langchain-core
+tavily
+tenacity
+google-search-results  # Optional, for SerpAPI fallback
+litellm  # For Mistral API via LiteLLM
