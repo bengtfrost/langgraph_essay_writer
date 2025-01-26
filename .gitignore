@@ -1,5 +1,7 @@
 # Virtual environment
-.venv/
+# Virtual environments
+.venv       # Ignore the symlink
+.venv/      # Ignore the directory (if it exists)
 venv/
 env/
 ENV/
