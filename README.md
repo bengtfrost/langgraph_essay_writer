@@ -59,6 +59,7 @@ GOOGLE_GEMINI_KEY=your_google_gemini_key  # Optional, for Google Gemini fallback
 For local testing, you can export the environment variables:
 
 export TAVILY_API_KEY='your_tavily_api_key'
+
 export MISTRAL_KEY='your_mistral_api_key'
 
 ### 5. Start the LiteLLM Server for Mistral
