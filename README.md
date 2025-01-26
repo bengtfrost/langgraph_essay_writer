@@ -49,7 +49,9 @@ cp .env.example .env
 Open `.env` in a text editor and replace the placeholders with your API keys:
 
 TAVILY_API_KEY=your_tavily_api_key
+
 MISTRAL_KEY=your_mistral_api_key
+
 GOOGLE_GEMINI_KEY=your_google_gemini_key  # Optional, for Google Gemini fallback
 
 ### 4. Export Environment Variables (Optional)
