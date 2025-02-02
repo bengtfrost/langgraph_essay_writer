@@ -99,6 +99,7 @@ The final essay will be displayed in the console.
 
 ## File Structure
 
+```plaintext
 essay-writer/
 ├── README.md               # Project documentation
 ├── requirements.txt        # Python dependencies
