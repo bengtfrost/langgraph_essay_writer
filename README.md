@@ -113,7 +113,6 @@ essay-writer/
 
 The `.env` file should contain the following variables:
 
-```plaintext
 TAVILY_API_KEY=your_tavily_api_key
 MISTRAL_KEY=your_mistral_api_key
 GOOGLE_GEMINI_KEY=your_google_gemini_key  # Optional
